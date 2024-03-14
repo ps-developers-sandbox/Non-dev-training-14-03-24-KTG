@@ -2,7 +2,7 @@
 name: 🐞 Bug report wulfland
 about: Create a report to help us improve
 title: '[Bug]:'
-labels: 'bug'
+labels: 'feature'
 assignees: 'wulfland'
 
 ---
