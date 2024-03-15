@@ -1,4 +1,4 @@
-# GitHub Fundamentals
+# GitHub Fundamentals for new players in the sandbox
 
 Repository for the `GitHub Fundamentals` training.
 
