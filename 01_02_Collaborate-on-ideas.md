@@ -12,7 +12,7 @@ In this part, you will learn and practice how to collaborate on Ideas. The part 
 <img width="423" alt="image" src="https://user-images.githubusercontent.com/5276337/204153901-5d22c9af-0fa8-4236-b4d4-6d3185d1ce08.png">
 
 ### 🔨 Hands-on: [Using with GitHub Discussions](HOL/01_Discussions.md)
-
+## new section added
 ## 🗒️ Wikis and 🌐 Pages
 
 GitHub contains a wiki in each repository (see [this example](https://github.com/wulfland/AccelerateDevOps/wiki)). The wiki has a custom header and footer.
